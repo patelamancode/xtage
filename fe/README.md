@@ -1,13 +1,23 @@
-<!--
-    Initialising  CRA
-    installing  react-routers & router-dom
-    setting up Tailwind css : for styling components
+# Xtage AI-Models
 
-    Installing Json-server for mock backend  : it provide fake restapi
-    creating mock api
-    using Context and fetch data from API, and consume it.
+An open platform which provides multiple AI(Artificial Intelligence) tools and models to use effectively.
 
+## Tech Stack
 
+**Client:** React, TailwindCSS, React-Routers
 
+**Server:** Json-Server
 
- -->
+## Load time
+
+```javascript
+import Component from "my-project";
+
+function App() {
+  return <Component />;
+}
+```
+
+## Optimizations
+
+What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
