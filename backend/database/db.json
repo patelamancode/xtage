@@ -1,0 +1,260 @@
+{
+  "models": [
+    {
+      "id": 1,
+      "img": "https://www.unimedia.tech/wp-content/uploads/2023/12/openAI-chat-gpt-1-4.jpg",
+      "model_name": "chat-gpt",
+      "model_type": "text-davinci-003",
+      "model_description": "ChatGPT is an artificial intelligence (AI) chatbot that uses natural language processing to create humanlike conversational dialogue. The language model can respond to questions and compose various written content, including articles, social media posts, essays, code and emails.",
+      "description": "ChatGPT is an artificial intelligence (AI) chatbot that uses natural language processing to create humanlike conversational dialogue. The language model can respond to questions and compose various written content, including articles, social media posts, essays, code and emails.",
+      "model_link": "https://openai.com/blog/chatgpt/",
+      "model_tags": [
+        "openai",
+        "ai",
+        "text-davinci-003",
+        "chatbot",
+        "dialogue",
+        "conversational",
+        "language",
+        "language-model"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "143678"
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56XDGR7Uczi9TZmNhuF_WsQGh_g4Xs0Xu7A&s",
+      "model_name": "image-classifier",
+      "model_type": "vision-davinci-002",
+      "model_description": "Image Classifier AI model",
+      "description": "Image Classifier AI model for identifying objects and scenes in images with high accuracy.",
+      "model_link": "https://example.com/image-classifier",
+      "model_tags": [
+        "ai",
+        "image-classification",
+        "vision-davinci-002",
+        "computer-vision"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "87654"
+    },
+    {
+      "id": 3,
+      "img": "https://images.unsplash.com/photo-1601132359864-c974e79890ac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YWklMjByb2JvdHxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "robot-assistant",
+      "model_type": "robot-davinci-001",
+      "model_description": "Robot Assistant AI model",
+      "description": "Robot Assistant AI model designed to assist humans in various tasks and activities.",
+      "model_link": "https://example.com/robot-assistant",
+      "model_tags": [
+        "ai",
+        "robotics",
+        "robot-davinci-001",
+        "assistant",
+        "automation"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "98765"
+    },
+    {
+      "id": 4,
+      "img": "https://plus.unsplash.com/premium_photo-1699387227274-6504f523cef3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGhlYWx0aGNhcmUlMjBhaXxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "healthcare-ai",
+      "model_type": "health-davinci-001",
+      "model_description": "Healthcare AI model",
+      "description": "Healthcare AI model for analyzing medical data and providing insights for diagnosis and treatment.",
+      "model_link": "https://example.com/healthcare-ai",
+      "model_tags": [
+        "ai",
+        "healthcare",
+        "health-davinci-001",
+        "medical",
+        "diagnosis",
+        "treatment"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "54321"
+    },
+    {
+      "id": 5,
+      "img": "https://plus.unsplash.com/premium_photo-1676637656277-498f73258bec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmluYW5jZSUyMGFpfGVufDB8fDB8fHww",
+      "model_name": "finance-ai",
+      "model_type": "finance-gpt-004",
+      "model_description": "Finance AI model",
+      "description": "Finance AI model for analyzing financial data, predicting market trends, and making investment decisions.",
+      "model_link": "https://example.com/finance-ai",
+      "model_tags": [
+        "ai",
+        "finance",
+        "finance-gpt-004",
+        "investment",
+        "financial-analysis",
+        "market-prediction"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "12345"
+    },
+    {
+      "id": 6,
+      "img": "https://images.unsplash.com/photo-1666597107756-ef489e9f1f09?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHJlY29tbWVuZGF0aW9uJTIwc3lzdGVtJTIwYWl8ZW58MHx8MHx8fDA%3D",
+      "model_name": "recommendation-system",
+      "model_type": "recommendation-gpt-002",
+      "model_description": "Recommendation System AI model",
+      "description": "Recommendation System AI model for suggesting products, movies, music, and more based on user preferences.",
+      "model_link": "https://example.com/recommendation-system",
+      "model_tags": [
+        "ai",
+        "recommendation",
+        "recommendation-gpt-002",
+        "personalization",
+        "recommendation-system"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "9876"
+    },
+    {
+      "id": 7,
+      "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlydHVhbCUyMGFzc2lzdGFuY2UlMjBhaXxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "virtual-assistant",
+      "model_type": "assistant-davinci-001",
+      "model_description": "Virtual Assistant AI model",
+      "description": "Virtual Assistant AI model designed to provide assistance and perform tasks based on user commands.",
+      "model_link": "https://example.com/virtual-assistant",
+      "model_tags": [
+        "ai",
+        "virtual-assistant",
+        "assistant-davinci-001",
+        "automation",
+        "task-management"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "6543"
+    },
+    {
+      "id": 8,
+      "img": "https://images.unsplash.com/photo-1610647752706-3bb12232b3ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXV0b25vbXVzJTIwdmVoaWNsZSUyMGFpfGVufDB8fDB8fHww",
+      "model_name": "autonomous-vehicle",
+      "model_type": "vehicle-davinci-001",
+      "model_description": "Autonomous Vehicle AI model",
+      "description": "Autonomous Vehicle AI model for self-driving cars, trucks, and other vehicles, enabling safe and efficient transportation.",
+      "model_link": "https://example.com/autonomous-vehicle",
+      "model_tags": [
+        "ai",
+        "autonomous-vehicle",
+        "vehicle-davinci-001",
+        "self-driving",
+        "transportation"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "3456"
+    },
+    {
+      "id": 9,
+      "img": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTR8fGxhbmd1YWdlJTIwdHJhbnNsYXRpb24lMjBhaXxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "language-translation",
+      "model_type": "language-gpt-005",
+      "model_description": "Language Translation AI model",
+      "description": "Language Translation AI model capable of translating text between multiple languages with high accuracy.",
+      "model_link": "https://example.com/language-translation",
+      "model_tags": [
+        "ai",
+        "language-translation",
+        "language-gpt-005",
+        "translation",
+        "natural-language-processing"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "2345"
+    },
+    {
+      "id": 10,
+      "img": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2VudGltZW50JTIwYW5hbHlzaXMlMjBhaXxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "sentiment-analysis",
+      "model_type": "sentiment-gpt-002",
+      "model_description": "Sentiment Analysis AI model",
+      "description": "Sentiment Analysis AI model for analyzing text sentiment and classifying it as positive, negative, or neutral.",
+      "model_link": "https://example.com/sentiment-analysis",
+      "model_tags": [
+        "ai",
+        "sentiment-analysis",
+        "sentiment-gpt-002",
+        "text-analysis",
+        "emotion-detection"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "6789"
+    },
+    {
+      "id": 11,
+      "img": "https://plus.unsplash.com/premium_photo-1708939062088-3e624bc6615d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZnJhdWQlMjBkZXRlY3Rpb24lMjBhaXxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "fraud-detection",
+      "model_type": "fraud-gpt-001",
+      "model_description": "Fraud Detection AI model",
+      "description": "Fraud Detection AI model for identifying fraudulent activities and transactions in financial systems.",
+      "model_link": "https://example.com/fraud-detection",
+      "model_tags": [
+        "ai",
+        "fraud-detection",
+        "fraud-gpt-001",
+        "financial-fraud",
+        "security"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "4567"
+    },
+    {
+      "id": 12,
+      "img": "https://plus.unsplash.com/premium_photo-1661384366589-6ce62a232f46?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3BlZWNoJTIwcmVjb2duaXRpb24lMjBhaXxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "speech-recognition",
+      "model_type": "speech-gpt-003",
+      "model_description": "Speech Recognition AI model",
+      "description": "Speech Recognition AI model for converting spoken language into text, enabling voice-controlled applications.",
+      "model_link": "https://example.com/speech-recognition",
+      "model_tags": [
+        "ai",
+        "speech-recognition",
+        "speech-gpt-003",
+        "voice-recognition",
+        "natural-language-processing"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "7890"
+    },
+    {
+      "id": 13,
+      "img": "https://plus.unsplash.com/premium_photo-1681466343780-3235b37889b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y3VzdG9tZXIlMjBzdXBwb3J0JTIwYWl8ZW58MHx8MHx8fDA%3D",
+      "model_name": "customer-support",
+      "model_type": "support-gpt-002",
+      "model_description": "Customer Support AI model",
+      "description": "Customer Support AI model for providing automated assistance and answering queries from customers.",
+      "model_link": "https://example.com/customer-support",
+      "model_tags": [
+        "ai",
+        "customer-support",
+        "support-gpt-002",
+        "virtual-assistant",
+        "automation"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "23456"
+    },
+    {
+      "id": 14,
+      "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGZvcmNhc3RpbmclMjBhaXxlbnwwfHwwfHx8MA%3D%3D",
+      "model_name": "forecasting",
+      "model_type": "forecast-gpt-001",
+      "model_description": "Forecasting AI model",
+      "description": "Forecasting AI model for predicting future trends, events, or outcomes based on historical data.",
+      "model_link": "https://example.com/forecasting",
+      "model_tags": [
+        "ai",
+        "forecasting",
+        "forecast-gpt-001",
+        "prediction",
+        "data-analysis"
+      ],
+      "model_visibility": true,
+      "subscriber_count": "5432"
+    }
+  ]
+}
