@@ -20,7 +20,6 @@ const ModelProvider = ({ children }) => {
   useEffect(() => {
     fetchData();
   }, []);
-  console.log(modelData);
 
   return (
     <ModelContext.Provider value={{ modelData, loading }}>
