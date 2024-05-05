@@ -28,12 +28,6 @@ Install dependencies
   npm install
 ```
 
-Start the json-server (backend)
-
-```bash
-  json-server --watch API_url_path
-```
-
 Start the frontend
 
 ```bash
