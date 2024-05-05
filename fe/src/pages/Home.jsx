@@ -11,6 +11,7 @@ const Home = () => {
   const [filteredModel, setFilteredModel] = useState(modelData);
   const searchInput = useRef(null);
   
+  console.log(modelData)
   const handleinputChange = (e) =>{
     e.preventDefault();
     setSearchValue(searchInput.current.value);

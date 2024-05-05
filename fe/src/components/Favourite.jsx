@@ -3,6 +3,7 @@ import ModelCard from './ModelCard'
 
 const Favourite = ({data}) => {
     // data whose subscriber count > 10000 in favourite section
+    console.log(data)
     const favouriteAIModels = data?.filter((model) => Number(model.subscriber_count) > 10000)
   return (
     <div className='flex flex-wrap gap-4 justify-center mt-5'>
